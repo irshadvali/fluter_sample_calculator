@@ -1,4 +1,4 @@
-# fluter_sample_calculator
+# flutter_sample_calculator
 
 A new Flutter application.
 
@@ -6,4 +6,4 @@ A new Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-# fluter_sample_calculator
+# flutter_sample_calculator
